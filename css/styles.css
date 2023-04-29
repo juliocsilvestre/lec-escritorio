@@ -619,11 +619,6 @@ a:hover {
 	margin-bottom: 0;
 }
 
-.clientes {
-	height: 30px;
-	width: 30px;
-}
-
 /*********************/
 /*     Details 1     */
 /*********************/
@@ -689,8 +684,6 @@ a:hover {
 
 .team-img {
 	border-radius: 5%;
-	height: fit-content;
-	width: 1000px;
 }
 
 /*********************/
