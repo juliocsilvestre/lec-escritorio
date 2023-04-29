@@ -17,4 +17,5 @@
 - Google Maps API
 
 📄 Licença
+---
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
