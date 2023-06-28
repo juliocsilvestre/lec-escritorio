@@ -1506,6 +1506,9 @@ a:hover {
 	color: #e8505b;
 }
 
+iframe {
+	padding-bottom: 170px;
+}
 
 /*************************/
 /*     Media Queries     */
